@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - Pickup
+  - Keys
+  - End
+  - Logic
   layers:
   - Default
   - TransparentFX
